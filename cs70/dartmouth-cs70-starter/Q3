@@ -1,2 +1,0 @@
-Q3. 
-1. If succesive iterations are equal, this indicates that the overdetermined system A has a solution and that ||Ax(k) - b||2 and ||Ax(k + 1) - b|| equals 0. Since x(k) and x(k+1) minimize the equation, they are equal to x, which also inimizes the equation.
